@@ -1,7 +1,4 @@
-# Full Stack AI Car Marketplace with Next JS, Supabase, Tailwind, Prisma, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/HyGi_SjQqV4
 
-![Vehiql(1)](https://github.com/user-attachments/assets/dee04576-f30e-4ab8-af7d-f4633621379c)
 
 ### Make sure to create a `.env` file with following variables -
 
