@@ -15,8 +15,6 @@ Save Favorite Cars: Authenticated users can save cars to a personal wishlist for
 
 Real-Time Test Drive Booking: Schedule test drives using an interactive calendar that shows real-time availability based on dealership hours/_components/test-drive-form.jsx].
 
-Integrated EMI Calculator: Quickly estimate monthly loan payments directly on the car detail page/_components/emi-calculator.jsx].
-
 ### Admin-Facing Features
 Comprehensive Dashboard: Get a complete overview of the marketplace with statistics on cars, test drives, and conversion rates.
 
