@@ -22,20 +22,15 @@ Settings Control: Manage dealership working hours and promote or demote user rol
 ## 🛠️ Tech Stack
 
 Framework: Next.js 
-
 Styling: Tailwind CSS & shadcn/ui
-
 Database: PostgreSQL (via Supabase) 
-
 ORM: Prisma
-
 Authentication: Clerk
-
 Artificial Intelligence: Google Gemini API  
 Security & Rate Limiting: Arcjet    
 File Storage: Supabase Storage    
 Form Management: React Hook Form with Zod for validation     
-PDF & CSV Generation: jsPDF, json2csv, charts.js, recharts    
+PDF & CSV Generation: jsPDF, json2csv, charts.js, Recharts    
 UI Components: Radix UI     
 Notifications: Sonner (for toasts)    
 
