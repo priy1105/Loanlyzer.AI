@@ -40,7 +40,7 @@ To get this project running on your local machine, first clone the repository. T
 
 Bash
 ```
-npm install
+npm install --legacy-peer-deps
 ```
 This will install all dependencies listed in the package.json file, including:
 ```
