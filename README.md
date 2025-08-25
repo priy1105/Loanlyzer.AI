@@ -1,6 +1,19 @@
 ## 💰🚗 Loanlyzer.AI - AI-Powered Car Marketplace & Loan Evaluator 🚗💰
 A comprehensive, full-stack vehicle marketplace that integrates cutting-edge AI for an intelligent car search experience and adds powerful financial tools for loan evaluation. Users can find their dream car using text or image-based searches, analyze their loan options with detailed amortization schedules, and export financial reports to PDF and CSV. The platform also includes a complete admin dashboard for managing inventory, test drives, and dealership settings.
 
+## 🛠️ Tech Stack
+
+Framework: Next.js
+Styling: Tailwind CSS & shadcn/ui
+Database: PostgreSQL (via Supabase)
+ORM: Prisma
+Authentication: Clerk
+Artificial Intelligence: Google Gemini API
+Security & Rate Limiting: Arcjet
+File Storage: Supabase Storage
+Form Management: React Hook Form with Zod for validation
+PDF & CSV Generation: jsPDF, json2csv, charts.js, recharts
+UI Components: Radix UI
 ## 🚀 Key Features
 ### User & Financial Features
 AI-Powered Visual Search: Upload a car image and let Gemini AI find similar vehicles in the inventory.
@@ -17,19 +30,7 @@ Full Inventory Management: Admins have complete CRUD (Create, Read, Update, Dele
 Test Drive Management: View all test drive bookings, filter them, and update their status (e.g., Pending, Confirmed, Completed).
 Settings Control: Manage dealership working hours and promote or demote user roles to control admin access.
 
-## 🛠️ Tech Stack
 
-Framework: Next.js
-Styling: Tailwind CSS & shadcn/ui
-Database: PostgreSQL (via Supabase)
-ORM: Prisma
-Authentication: Clerk
-Artificial Intelligence: Google Gemini API
-Security & Rate Limiting: Arcjet
-File Storage: Supabase Storage
-Form Management: React Hook Form with Zod for validation
-PDF & CSV Generation: jsPDF, json2csv, charts.js, recharts
-UI Components: Radix UI
 
 Notifications: Sonner (for toasts)
 
