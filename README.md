@@ -8,7 +8,6 @@ Framework: Next.js
 Styling: Tailwind CSS & shadcn/ui
 
 Database: PostgreSQL (via Supabase)
-
 ORM: Prisma
 
 Authentication: Clerk
