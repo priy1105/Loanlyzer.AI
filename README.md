@@ -1,4 +1,4 @@
-💰🚗 Loanlyzer.AI - AI-Powered Car Marketplace & Loan Evaluator 🚗💰
+## 💰🚗 Loanlyzer.AI - AI-Powered Car Marketplace & Loan Evaluator 🚗💰
 A comprehensive, full-stack vehicle marketplace that integrates cutting-edge AI for an intelligent car search experience and adds powerful financial tools for loan evaluation. Users can find their dream car using text or image-based searches, analyze their loan options with detailed amortization schedules, and export financial reports to PDF and CSV. The platform also includes a complete admin dashboard for managing inventory, test drives, and dealership settings.
 
 ## 🚀 Key Features
@@ -27,26 +27,17 @@ Test Drive Management: View all test drive bookings, filter them, and update the
 Settings Control: Manage dealership working hours and promote or demote user roles to control admin access.
 
 ## 🛠️ Tech Stack
+
 Framework: Next.js
-
 Styling: Tailwind CSS & shadcn/ui
-
 Database: PostgreSQL (via Supabase)
-
 ORM: Prisma
-
 Authentication: Clerk
-
 Artificial Intelligence: Google Gemini API
-
 Security & Rate Limiting: Arcjet
-
 File Storage: Supabase Storage
-
 Form Management: React Hook Form with Zod for validation
-
-PDF & CSV Generation: jsPDF, json2csv
-
+PDF & CSV Generation: jsPDF, json2csv, charts.js, recharts
 UI Components: Radix UI
 
 Notifications: Sonner (for toasts)
@@ -55,23 +46,18 @@ Notifications: Sonner (for toasts)
 To get this project running on your local machine, first clone the repository. Then, install all the necessary packages by running the command below in your project's root directory.
 
 Bash
-
+```
 npm install
+```
 This will install all dependencies listed in the package.json file, including:
-
+```
 Core & Framework: next, react, react-dom
-
 Styling & UI: tailwindcss, tailwindcss-animate, class-variance-authority, clsx, tailwind-merge, lucide-react, sonner, react-day-picker, and @radix-ui/* components.
-
 Data & State Management: @prisma/client, @supabase/ssr, @supabase/supabase-js, react-hook-form, zod.
-
 Authentication & Security: @clerk/nextjs, @arcjet/next.
-
 AI & Utilities: @google/generative-ai, react-dropzone, date-fns, uuid.
-
 Loan Schedule Exports: jspdf, jspdf-autotable, json2csv.
-
-
+```
 
 
 
