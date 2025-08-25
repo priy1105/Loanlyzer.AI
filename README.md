@@ -4,26 +4,17 @@ A comprehensive, full-stack vehicle marketplace that integrates cutting-edge AI 
 ## 🚀 Key Features
 ### User & Financial Features
 AI-Powered Visual Search: Upload a car image and let Gemini AI find similar vehicles in the inventory.
-
 Advanced Loan Evaluator: Generate detailed, month-by-month loan amortization schedules based on vehicle price, down payment, interest rate, and tenure.
-
 PDF & CSV Export: Download and save your complete loan amortization schedule as a professional PDF or a data-rich CSV file for your financial records.
-
 Advanced Filtering & Search: Filter cars by make, body type, fuel type, price range, and more to find the perfect vehicle.
-
 Save Favorite Cars: Authenticated users can save cars to a personal wishlist for later viewing.
-
 Real-Time Test Drive Booking: Schedule test drives using an interactive calendar that shows real-time availability based on dealership hours/_components/test-drive-form.jsx].
 
 ### Admin-Facing Features
 Comprehensive Dashboard: Get a complete overview of the marketplace with statistics on cars, test drives, and conversion rates.
-
 AI-Assisted Data Entry: Add new cars by uploading an image; Gemini AI automatically extracts and pre-fills the car's details, saving valuable time.
-
 Full Inventory Management: Admins have complete CRUD (Create, Read, Update, Delete) control over the car listings.
-
 Test Drive Management: View all test drive bookings, filter them, and update their status (e.g., Pending, Confirmed, Completed).
-
 Settings Control: Manage dealership working hours and promote or demote user roles to control admin access.
 
 ## 🛠️ Tech Stack
