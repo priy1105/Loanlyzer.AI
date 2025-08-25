@@ -1,4 +1,5 @@
 ## 💰🚗 Loanlyzer.AI - AI-Powered Car Marketplace & Loan Evaluator 🚗💰
+### Built with Next JS, Supabase, Tailwind, Prisma, ArcJet, Shadcn UI
 A comprehensive, full-stack vehicle marketplace that integrates cutting-edge AI for an intelligent car search experience and adds powerful financial tools for loan evaluation. Users can find their dream car using text or image-based searches, analyze their loan options with detailed amortization schedules, and export financial reports to PDF and CSV. The platform also includes a complete admin dashboard for managing inventory, test drives, and dealership settings.
 
 
