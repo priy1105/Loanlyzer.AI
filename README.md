@@ -3,13 +3,10 @@ A comprehensive, full-stack vehicle marketplace that integrates cutting-edge AI 
 
 ## 🛠️ Tech Stack
 
-Framework: Next.js 
-
-Styling: Tailwind CSS & shadcn/ui
-
-Database: PostgreSQL (via Supabase)
+Framework: Next.js ··
+Styling: Tailwind CSS & shadcn/ui ··
+Database: PostgreSQL (via Supabase) ··
 ORM: Prisma
-
 Authentication: Clerk
 Artificial Intelligence: Google Gemini API
 Security & Rate Limiting: Arcjet
